@@ -20,4 +20,4 @@ To run this app
 2) run npm start
 
 Future development
-To enhance security we can encrypt (hash) and save password and always compare hashed values.
+To enhance security we can encrypt (hash) and save password and always compare hashed values
